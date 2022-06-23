@@ -1,9 +1,9 @@
 # LSIA WEBSITE
 ## Website of laboratory of systems intelligents and applications
 
-### access to branch master to see the code source
+### You can see Source Code in the Master Branch
 
-#### this is some screens from the website :
+#### there is some screens from the website :
 
 ![FireShot Capture 018 - SIA - Home - localhost](https://user-images.githubusercontent.com/66576820/131318409-d55f9bd4-c7f2-4482-bae5-b76b1f7201ae.png)
 
